@@ -29,10 +29,10 @@ ansible-playbook nginx.yml
 ````
 
 ## Проверка балансировщика
-![Всё прекрасно](https://github.com/naaastyazharkova/Operating-System/blob/lab-05/lab5_os/pictures/ha1%2B2.png)
++ ![всё прекрасно](https://github.com/naaastyazharkova/Operating-System/blob/lab-05/lab5_os/pictures/ha1%2B2.png)
 
 
 ## Проверка отказоустойчивости
-+ ![Отключен haproxy1](https://github.com/naaastyazharkova/Operating-System/blob/lab-05/lab5_os/pictures/ha2.png)
++ ![отключен haproxy1](https://github.com/naaastyazharkova/Operating-System/blob/lab-05/lab5_os/pictures/ha2.png)
 
-+ ![Отключен haproxy2](https://github.com/naaastyazharkova/Operating-System/blob/lab-05/lab5_os/pictures/ha1.png)
++ ![отключен haproxy2](https://github.com/naaastyazharkova/Operating-System/blob/lab-05/lab5_os/pictures/ha1.png)
