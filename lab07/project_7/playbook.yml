@@ -1,0 +1,4 @@
+- name: postgresql
+  hosts: postgres
+  roles:
+    - clients
