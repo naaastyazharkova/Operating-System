@@ -1,7 +1,0 @@
-- hosts: consul
-  become: yes
-  roles:
-    - role: consul
-      vars:
-        dc_name: "anastasia"
-        consul_ansible_group: "consul"
