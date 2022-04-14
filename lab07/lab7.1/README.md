@@ -29,5 +29,5 @@ ansible-playbook playbook.yml
 ## Проверка оркестратора репликации Patroni на pg1
 ![работает](https://github.com/naaastyazharkova/Operating-System/blob/lab-07/lab07/pictures/%D0%BB%D0%B17.1_pg1.png)
 
-## Проверка оркестратора репликации Patroni на pg1
+## Проверка оркестратора репликации Patroni на pg2
 ![работает](https://github.com/naaastyazharkova/Operating-System/blob/lab-07/lab07/pictures/%D0%BB%D0%B17.1_pg2.png)
