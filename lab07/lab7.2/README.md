@@ -23,3 +23,6 @@ vagrant up
 ````
 ansible-playbook playbook.yml
 ````
+
+## Работает!!!
+![работает](https://github.com/naaastyazharkova/Operating-System/blob/lab-07/lab07/pictures/%D0%BB%D0%B17.2.png)
