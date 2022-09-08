@@ -1,8 +1,8 @@
 # Лабораторная работа №1
 ## Задание 1
-<картинка-описание>
+![картинка1](https://github.com/naaastyazharkova/Operating-System/blob/3s-lab-01/pictures/1.png)
 ### Решение
-<картинка-ответ>
+![картинка1](https://github.com/naaastyazharkova/Operating-System/blob/3s-lab-01/pictures/1.1.png)
 <details> 
 <summary>Код</summary>
   
@@ -15,9 +15,9 @@ echo "Arguments are: \$1=$1, \$2=$2"
 </details>
 
 ## Задание 2
-<картинка-описание>
+![картинка1](https://github.com/naaastyazharkova/Operating-System/blob/3s-lab-01/pictures/2.png)
 ### Решение
-<картинка-ответ>
+![картинка1](https://github.com/naaastyazharkova/Operating-System/blob/3s-lab-01/pictures/2.2.png)
 <details> 
 <summary>Код</summary>
   
@@ -44,9 +44,9 @@ fi
 </details>
 
 ## Задание 3
-<картинка-описание>
+![картинка1](https://github.com/naaastyazharkova/Operating-System/blob/3s-lab-01/pictures/3.png)
 ### Решение
-<картинка-ответ>
+![картинка1](https://github.com/naaastyazharkova/Operating-System/blob/3s-lab-01/pictures/3.3.png)
 <details> 
 <summary>Код</summary>
   
@@ -70,9 +70,9 @@ fi
 </details>
 
 ## Задание 4
-<картинка-описание>
+![картинка1](https://github.com/naaastyazharkova/Operating-System/blob/3s-lab-01/pictures/4.png)
 ### Решение
-<картинка-ответ>
+![картинка1](https://github.com/naaastyazharkova/Operating-System/blob/3s-lab-01/pictures/4.4.png)
 <details> 
 <summary>Код</summary>
   
